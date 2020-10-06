@@ -40,14 +40,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TejashriUP/newshoppingapp.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TejashriUP/newshoppingapp/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/TejashriUP/newshoppingapp#readme",
+  "homepage": "",
   "engines": {
     "node": "12.4.0",
     "npm": "6.9.0"
