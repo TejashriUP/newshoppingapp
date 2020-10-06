@@ -45,9 +45,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Tejashri638/newshoppingapp/issues"
+    "url": "https://github.com/TejashriUP/newshoppingapp/issues"
   },
-  "homepage": "https://github.com/Tejashri638/newshoppingapp#readme",
+  "homepage": "https://github.com/TejashriUP/newshoppingapp#readme",
   "engines": {
     "node": "12.4.0",
     "npm": "6.9.0"
